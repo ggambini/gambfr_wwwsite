@@ -1,0 +1,94 @@
+<html>
+        <head>
+                <title>{SUBTITLE} - Brasserie Gamb</title>
+                <link href="template/brasserie-gamb.css" rel="stylesheet" type="text/css"/>
+                <link rel="icon" type="image/x-icon" href="template/brasserie-gamb_fav.ico" />
+        </head>
+
+        <body><div id="body">
+
+
+                <div id="top_title">
+                        <span id="title"><a href="http://gamb.fr">Brasserie Gamb</a></span><br/>
+                        <span id="subtitle">Brasseur amateur dans le Lauragais</span>
+                </div>
+
+                <div id="top_img">
+                        <div id="top_logo">
+                                <!-- Logo de la brasserie -->
+                        </div>
+                        <!-- Bandeau aléatoire -->
+                        <div id="brassin_inspector">
+                                <form action="brassin_inspector.php" method="get">
+                                        <input type="text" name="b" value="" size="4" required placeholder="B#" /><input type="submit" value="Ok" />
+                                </form>
+                        </div>
+                </div>
+
+                <div id="menu">
+                        <ul>
+                                <li id="menu_item"><a href="http://blog.gamb.fr">Blog</a></li><li id="menu_item"><a href="http://www.brassageamateur.com/forum/ftopic23195.html">Journal</a></li><li id="menu_item"><a href="http://brewtoolbox.gamb.fr/">Outils</a></li>
+                        </ul>
+                </div>
+
+                <div id="main">
+                        <div id="left_menu">
+				<p><span id="left_menu_header">Les binouzes</span></p>
+				<p><table>
+					<tr>
+						<td><img src="files/nrw_blank.png" height=50/></td>
+						<td><a href="la_commune.php"><b>La Commune</b></a><br/>
+						<span style="background-color:#fec834">&nbsp;&nbsp;&nbsp;</span> K&ouml;lsch<br/>
+						5.0 volts / 26 IBU</td>
+					</tr>
+				</table></p>
+				<p><table>
+                                        <tr>
+                                                <td><img src="files/nrw_blank.png" height=50/></td>
+                                                <td><a href="grosspils.php"><b>Gro&szlig; Pils</b></a><br/>
+                                                <span style="background-color:#fed94d">&nbsp;&nbsp;&nbsp;</span> German pilsner<br/>
+                                                4.5 volts / 32 IBU</td>
+                                        </tr>
+                                </table></p>
+				<p><table>
+                                        <tr>
+                                                <td><img src="files/nrw_blank.png" height=50/></td>
+                                                <td><a href="le_poil.php"><b>Le Poil</b></a><br/>
+                                                <span style="background-color:#4d0101">&nbsp;&nbsp;&nbsp;</span> Rauchschwarzbier<br/>
+                                                6.5 volts / 16 IBU</td>
+                                        </tr>
+                                </table></p>
+				<p><span id="left_menu_header">Les projets</span></p>
+				<p><table>
+                                        <tr>
+                                                <td><img src="files/nrw_blank.png" height=50/></td>
+                                                <td><a href="helles_yeah.php"><b>Helles Yeah</b></a><br/>
+                                                <span style="background-color:#fda600">&nbsp;&nbsp;&nbsp;</span> APA x Helles<br/>
+                                                5.5 volts / 40 IBU</td>
+                                        </tr>
+                                </table></p>
+				<p><table>
+                                        <tr>
+                                                <td><img src="files/nrw_blank.png" height=50/></td>
+                                                <td><a href=""><b>La Propagamb</b></a><br/>
+                                                <span style="background-color:#fda600">&nbsp;&nbsp;&nbsp;</span> Weizen<br/>
+                                                5.2 volts / 12 IBU</td>
+                                        </tr>
+                                </table></p>
+				
+                        </div>
+
+                        <div id="right_menu">
+				<p><span id="right_menu_header">Le matos</span></p>
+                                <p><table>
+                                        <tr>
+                                                <td><img src="files/pico21_cuve-ebu_mini.png" height=50/></td>
+                                                <td><a href="pico2.php"><b>Pico-brasserie</b></a><br/>
+                                                v2.1 / 80L max<br/>
+                                                3 cuves</td>
+                                        </tr>
+                                </table></p>
+                                <p><span id="right_menu_header">Sur le blog ...</span></p>
+				{TABLE_RSS}
+                        </div>
+

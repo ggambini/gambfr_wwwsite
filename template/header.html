@@ -1,0 +1,55 @@
+<html>
+        <head>
+                <title>{SUBTITLE} - Brasserie Gamb</title>
+                <link href="template/brasserie-gamb.css" rel="stylesheet" type="text/css"/>
+                <link rel="icon" type="image/x-icon" href="template/brasserie-gamb_fav.ico" />
+        </head>
+
+        <body><div id="body">
+
+
+                <div id="top_title">
+                        <span id="title"><a href="http://gamb.fr">Brasserie Gamb</a></span><br/>
+                        <span id="subtitle">Future micro-brasserie &agrave; Revel</span>
+                </div>
+
+                <div id="top_img">
+                        <div id="top_logo">
+                                <!-- Logo de la brasserie -->
+                        </div>
+                        <!-- Bandeau aléatoire -->
+                        <div id="brassin_inspector">
+                                <form action="brassin_inspector.php" method="get">
+                                        <input type="text" name="b" value="" size="4" required placeholder="B#" /><input type="submit" value="Ok" />
+                                </form>
+                        </div>
+                </div>
+
+                <div id="menu">
+                        <ul>
+                                <li id="menu_item"><a href="http://blog.gamb.fr">Blog</a></li><li id="menu_item"><a href="http://www.brassageamateur.com/forum/ftopic23195.html">Journal</a></li><li id="menu_item"><a href="http://brewtoolbox.gamb.fr/">Outils</a></li>
+                        </ul>
+                </div>
+
+                <div id="main">
+                        <div id="left_menu">
+				<p><span id="left_menu_header">Les binouzes</span></p>
+				{TABLE_GAMME}
+                        </div>
+
+                        <div id="right_menu">
+				<p><span id="right_menu_header">Le matos</span></p>
+                                <p><table id="right_menu_table">
+                                        <tr>
+                                                <td><img src="files/pico21_cuve-ebu_mini.png" height=50/></td>
+                                                <td><a href="pico2.php"><b>Pico-brasserie</b></a><br/>
+                                                v2.1 / 80L max<br/>
+                                                3 cuves</td>
+                                        </tr>
+                                </table></p>
+                                <p><span id="right_menu_header">Sur le blog ...</span></p>
+				{TABLE_RSS}
+				<p><span id="right_menu_header">Sur le net ...</span></p>
+				{TABLE_EXTERNAL_LINKS}
+                        </div>
+

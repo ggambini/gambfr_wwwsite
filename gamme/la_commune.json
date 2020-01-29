@@ -1,0 +1,21 @@
+{
+	"name":"La Commune",
+	"style":"Helles Altbier",
+	"version":"1.2",
+	"alcool":"4.8",
+	"ibu":"22",
+	"ebc":"10",
+	"recipe":{
+		"malts":["75% malt d'orge Weyermann Vienna","25% malt d'orge Weyermann Boehmian Pilsner","Double décoction"],
+		"hops":["1g/L Hallertauer Mittelfrüh FirstWortHop", "0.5g/L Hallertauer Mittelfrüh Whirlpool", "Am&eacute;risant Hallertauer Mittelfrüh"],
+		"yeast":"Wyeast 2565 Kölsch",
+		"initial_gravity":"11.2",
+		"final_gravity":"2.2"
+	},
+	"beer_description":"Bière régulière de la brasserie, titrant à 4.5%. La Commune est une bière d'inspiration allemande dans les techniques et les ingrédients. D'aspect, elle est dorée claire, limpide et pétillante. Le nez est discret et floral. La saveur se veut équilibrée entre l'attaque de houblon mittelfruh et la fin maltée. L'amertume est douce mais à une bonne longueur en bouche.",
+	"recipe_description":"Le style Kolsch est une bière de fermentation haute ayant un profil aromatique se rapprochant des lagers allemandes, la Kolsch est la bière emblématique de la ville de Cologne. On est sur une bière plus équilibré qu'une pale ale anglaise. Elle est donc assez fruitée mais avec un bon gout de malts. Sur cette recette, j'ai voulu me rapprocher le plus d'une authentique Kolsch en imitant les techniques allemandes : 100% malts d'orge, double décoctions, houblonnage du premier jus et bien sur la fameuse levure. C'est une bière très accessible et facile à boire.",
+	"label":"label_la-commune_v2.1.png",
+	"label2":"la-commune_label2.png",
+	"ebc_html":"fec834",
+	"blog_keyword":"la%20commune"
+}

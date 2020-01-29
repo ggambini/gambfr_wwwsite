@@ -1,0 +1,21 @@
+{
+        "name":"No Name",
+        "style":"Saison",
+        "version":"0.1",
+        "alcool":"5.5",
+        "ibu":"26",
+        "ebc":"11",
+        "recipe":{
+                "malts":["60% malt d'orge Weyermann Vienna","40% malt d'&eacute;peautre Weyermann","Double d&eacute;coction"],
+                "hops":["0.75g/L FirstWortHop Hallertauer Mittelfruh","0.75g/L FirstWortHop Tettnanger","0.75g/L Whirlpool Tettnanger","Am&eacute;risant Tettnanger"],
+                "yeast":"Wyeast 3711 French Saison",
+                "initial_gravity":"12.2",
+                "final_gravity":"2.0"
+        },
+	"beer_description":"",
+	"recipe_description":"",
+        "label":"",
+        "label2":"",
+        "ebc_html":"fda600",
+        "blog_keyword":"french saison"
+}

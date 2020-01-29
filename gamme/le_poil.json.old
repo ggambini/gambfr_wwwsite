@@ -1,0 +1,21 @@
+{
+	"name":"Le Poil",
+	"style":"Rauch Schwarzbier",
+	"version":"0.1",
+	"alcool":"6.5",
+	"ibu":"16",
+	"ebc":"60",
+	"recipe":{
+		"malts":["30% malt d'orge Weyermann Rauchmalt","30% malt d'orge Weyermann Vienna","35% malt de bl&eacute; Weyermann","5% malt de bl&eacute; torr&eacute;fi&eacute;","Double d&eacute;coction"],
+		"hops":["Seulement en am&eacute;risant"],
+		"yeast":"Wyeast Bavarian Lager",
+		"initial_gravity":"15.3",
+		"final_gravity":"4.0"
+	},
+	"beer_description":"La bière foncée de la brasserie, un genre de stout fumé bien rond. Je cherchais un faire un stout un peu different, entre le dry stout et le baltic porter. Après quelques tests, j'ai eu envi d'y mettre une bonne dose de malt fumé au hetre, le rauchmalt. On est sur une bière ronde, douce et bien maltée. L'équilibre est dans les aromes de grillé, café et fumé. Pour renforcer ce coté pain liquide, il y a 50% de froment dans la recette et une tite décoction.",
+	"recipe_description":"Le Poil est un croisement entre une Rauchbier et un Baltic Porter. La Rauchbier est brassée avec du malt d'orge fumé au hetre, une lager au bon gout de jambon fumé :D Le baltic porter est alcolisé, dense et souvent fermenté à la lager. En terme de dégust, on est proche d'une scharzbier avec plus de corps et des aromes légérement fumés.",
+	"label":"",
+	"label2":"",
+	"ebc_html":"4d0101",
+	"blog_keyword":"rauchschwarzbier"
+}

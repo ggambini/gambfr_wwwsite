@@ -1,0 +1,21 @@
+{
+        "name":"Gro&szlig; Pils",
+        "style":"German Pilsner",
+        "version":"0.1",
+        "alcool":"4.2",
+        "ibu":"32",
+        "ebc":"6",
+        "recipe":{
+                "malts":["100% malt d'orge Weyermann Bohemian Pilsner","Double d&eacute;coction"],
+                "hops":["0.75g/L FirstWortHop Hallertauer Hersbrucker","0.75g/L FirstWortHop Tettnanger","0.5g/L Whirlpool Hallertauer Hersbrucker"],
+                "yeast":"Wyeast Bohemian Lager",
+                "initial_gravity":"10.2",
+                "final_gravity":"2.2"
+        },
+	"beer_description":"Seconde bière de la brasserie, elle s'inspire des lagers allemandes et pils tchèques. On est sur une bière plus sèche et plus amère que La Commune, ce qui la rend très désaltérente. Elle troque ses aromes fruitées et mielleux pour des aromes herbeux et floraux. Elle a une robe très pale, une limpidité parfaite et est bien carbonatée. Le nez est discret mais l'arome de houblon est bien présent en début de bouche. Une amertume intense et progressive s'installe avec une compléxité certaine dans les aromes de grain. Enfin, l'amertume résiduelle fait le pont entre deux grogées.",
+	"recipe_description":"On est sur une pilsner très classique, plutôt allemande que tchèque. C'est une german pilsner, sèche et peu alcolisée. Faiblement houblonné, le style est subtile et technique. La fermentation basse attenue bien en toute discretion. Le couple houblon florale et levure lager donne un profil aromatique spécifique, reconnaissable. J'aime bien le style car c'est le symbole de l'indutrie brassicole et j'en ai bu des hectolitres :D L'objectif est de faire une version beaucoup plus généreuse mais en gardant les saveurs typiques.",
+        "label":"",
+        "label2":"gross-pils_label2.png",
+        "ebc_html":"fed94d",
+        "blog_keyword":"Gro%C3%9F%20Pils"
+}

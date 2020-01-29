@@ -1,0 +1,195 @@
+body {
+	padding : 0 0 50px 0;
+	margin : 0;
+	color : #ffffff;
+	background : #181818;
+	font : 0.8em 'Lucida Grande', Arial, Sans-Serif;
+	line-height : 1.6em;
+}
+#body {
+	width: 1016px;
+	margin: 0 auto;
+	border-width: 0px 3px 0px 3px; 
+	border-style: solid;
+	border-color: #101010;
+}
+
+/*
+ * Premiere ligne : Titre du site
+ */
+#top_title {
+	width : 1016px;
+	height : 50px;
+	margin : 0 auto;
+	padding: 0;
+	display: inline-block;
+	background : #181818 url('top_bg.png') repeat-x left top;
+	border-bottom : 2px solid #0e0e0e;
+	text-align: center;
+	line-height : 0.5em;
+}
+#title {
+	position : relative;
+        font : 1.80em 'Helvetica Neue', Arial, Sans-Serif;
+        font-weight : bold;
+        letter-spacing : -1px;
+	padding : 8px 0 0 0px;
+}
+#title a {
+	color : #ffffff;
+	text-decoration : none;
+}
+#title a:hover {
+	color : #ff0000;
+        text-decoration : none;
+}
+#subtitle {
+	position : relative;
+        font : 1em 'Helvetica Neue', Arial, Sans-Serif;
+	font-size : 0.85em;
+	color : #ddd;
+}
+
+/*
+ * Deuxieme ligne : Bandeau + logo + brassin_inspector
+ */
+#top_img {
+	width : 1016px;
+	margin : 0 auto;
+	height : 200px;
+	background : url('../files/headers/header_05.png') no-repeat center bottom;
+	border : 1px solid #ddd;
+	border-width : 1px 0;
+}
+#top_logo {
+	width : 190px;
+	height : 250px;
+	background: url(brasserie-gamb_logo-v0.1.png) center;
+	position : relative;
+	top: -30;
+	left: 2;
+	display: inline-block;
+	float: left;
+}
+#brassin_inspector {
+	position : relative;
+	top: 5;
+	right: 5;
+	float: right;
+}
+
+/*
+ * Troisieme ligne : Menu ressources externes
+ */
+#menu {
+        width: 1016px;
+        height: 40px;
+	padding: 0;
+        margin: 0 auto;
+	background : #141414 url('menu_bg.png') repeat-x left top;
+}
+#menu ul {
+	float: right;
+	display: inline;
+	position: relative;
+	padding: 0;
+	margin: 0;
+	right: 20px;
+}
+#menu li {
+	display: inline-block;
+	width: 80px;
+	height: 40px;
+	border-right : 1px solid #222;
+	border-left : 1px solid #111;
+	text-align: center;
+	line-height:40px;
+	text-transform : uppercase;
+	letter-spacing : -1px;
+}
+#menu a {
+        color : #ffffff;
+        text-decoration : none;
+	font : 1em 'Helvetica Neue', Arial, Sans-Serif;
+	font-weight : bold;
+}
+#menu a:hover {
+        color : #ff0000;
+        text-decoration : none;
+	font : 1em 'Helvetica Neue', Arial, Sans-Serif;
+        font-weight : bold;
+}
+
+/*
+ * Sidebars gauche et droite
+ */
+#main {
+	width: 1016px;
+	padding: 0;
+	margin: 0 auto;
+	background: #FFFFFF;
+        letter-spacing : -1px;
+        text-align: center;
+	display: inline-block;
+	position: relative;
+	top: -5px;
+	color: #000000;
+}
+#left_menu {
+	width: 180px;
+	margin: 0;
+	position: relative;
+	float: left;
+	display: inline-block;
+}
+#right_menu {
+        width: 180px;
+	margin: 0;
+	position: relative;
+        float: right;
+        display: inline-block;
+}
+
+#left_menu_header, #right_menu_header {
+	color: #000000;
+	font : 1em 'Helvetica Neue', Arial, Sans-Serif;
+        font-weight : bold;
+}
+
+#right_menu_table {
+	width: 100%;
+	text-align: right;
+}
+
+#left_menu ul {
+	text-align: left;
+}
+#left_menu li {
+	color: #101010;
+}
+#left_menu a, #right_menu a {
+	color: #101010;
+	text-decoration : none;
+}
+#left_menu a:hover, #right_menu a:hover {
+        color : #ff0000;
+        text-decoration : none;
+}
+
+#left_menu table, #right_menu table {
+	color: #000000;
+        font : 1em 'Helvetica Neue', Arial, Sans-Serif;
+}
+
+#content {
+	width: 656px;
+	left: 180px;
+	color: #000000;
+	text-align: left;
+	margin: auto;
+	letter-spacing : 0px;
+	display: block;
+	/*position: relative;*/
+	font : 1em 'Lucida Grande', Arial, Sans-Serif;
+	text-align: justify;
+}

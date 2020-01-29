@@ -1,0 +1,21 @@
+{
+        "name":"Helles Yeah",
+        "style":"APA x Helles",
+        "version":"0.1",
+        "alcool":"5.0",
+        "ibu":"38",
+        "ebc":"7",
+        "recipe":{
+                "malts":["100% malt d'orge Weyermann Bohemian Pilsner","Double d&eacute;coction"],
+                "hops":["30% FirstWortHop Hallertauer Hersbrucker", "70% Am&eacute;risant Hallertauer Hersbrucker"],
+                "yeast":"WLP 029 Kolsch",
+                "initial_gravity":"12.4",
+                "final_gravity":"2.5"
+        },
+	"beer_description":"Cette bière est un hybride entre deux grandes familles : Les Helles allemandes à la robe très pale et à l'arome malté très subtil rencontrent les Americain Pale Ale aux aromes houblonnés explosifs. Pour faire court, j'utilise mon process habituel d'inspiration allemande en utilsiant une dose de houblon américain assez importante par rapport à mes autres recettes.",
+	"recipe_description":"",
+        "label":"",
+        "label2":"",
+        "ebc_html":"fed94d",
+        "blog_keyword":"helles yeah"
+}

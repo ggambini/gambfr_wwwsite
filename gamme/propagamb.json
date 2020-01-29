@@ -1,0 +1,21 @@
+{
+        "name":"La Propagamb",
+        "style":"Hefe-Weizen",
+        "version":"0.1",
+        "alcool":"5.3",
+        "ibu":"12",
+        "ebc":"10",
+        "recipe":{
+                "malts":["50% malt d'orge Weyermann Vienna","50% malt de bl&eacute; Weyermann","Simple d&eacute;coction"],
+                "hops":["30% FirstWortHop Hallertauer Hersbrucker", "70% Am&eacute;risant Hallertauer Hersbrucker"],
+                "yeast":"Wyeast 3068 Weihenstephan Weizen",
+                "initial_gravity":"12.3",
+                "final_gravity":"3.0"
+        },
+	"beer_description":"",
+	"recipe_description":"",
+        "label":"",
+        "label2":"",
+        "ebc_html":"fda600",
+        "blog_keyword":"propagamb"
+}

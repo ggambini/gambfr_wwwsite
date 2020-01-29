@@ -1,0 +1,21 @@
+{
+	"name":"Le Poêle",
+	"style":"Rauch Schwarzbier",
+	"version":"0.1",
+	"alcool":"6.5",
+	"ibu":"16",
+	"ebc":"60",
+	"recipe":{
+		"malts":["30% malt d'orge Weyermann Rauchmalt","30% malt d'orge Weyermann Vienna","35% malt de bl&eacute; Weyermann","5% malt de bl&eacute; torr&eacute;fi&eacute;","Double d&eacute;coction"],
+		"hops":["Seulement en am&eacute;risant"],
+		"yeast":"Wyeast Bavarian Lager",
+		"initial_gravity":"15.3",
+		"final_gravity":"4.0"
+	},
+	"beer_description":"La bière forte de la brasserie, foncée et riche en saveurs maltées à boire devant la cheminée. Elle fait la part belle à la diversité des arômes et gouts proposés par le malt. L'équilibre est recherché entre le fumé et le torréfié/café, ainsi qu'entre la rondeur (sucre résiduel) et la buvabilité. Le nez est fumé et malté puis en bouche on découvre la complexité des saveurs : pain, café, torréfié, maillard, fumé. La robe noire semble opaque mais laisse passer la lumière donnant de beaux reflets rubis. Le col de mousse est bien blanc malgré l'usage de malts foncés. Elle est plutôt brassée en hiver et laisse sa place à notre Weizen durant la belle saison.",
+	"recipe_description":"Je cherchais une recette de stout tout en douceur, mes premières versions incorporaient 50% de malt de blé dans le but de renforcer ce coté pain liquide. De même, je n'utilise pas l'orge grillé typique du stout/porter pour la couleur mais du malt de blé torréfié, moins astringent et plus agréable de mon point de vue. J'ai découvert part la suite le Rauchmalt qui est un malt d'orge fumé au bois d'hêtre, j'ai adoré cette saveur. Les allemands font des bières avec 100% de ce malt fumé, la saveur est trop forte. J'ai décidé d'en utiliser dans ma recette car fumé et torréfié se marient très bien. La double décoction va parfaitement sur cette recette, ajoutant d'autres saveurs maltées. Enfin, la recette n'ayant plus rien du stout/porter, je suis parti sur une levure de fermentation basse, plus discrète, à la manière d’une Schwarzbier ou d’un Baltic Porter.",
+	"label":"",
+	"label2":"",
+	"ebc_html":"4d0101",
+	"blog_keyword":"rauchschwarzbier"
+}
